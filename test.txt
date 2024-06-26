@@ -3,3 +3,8 @@ bdcfg
 cat
 dog
 elephant
+adb
+agb
+fgt
+uihh
+sgim
