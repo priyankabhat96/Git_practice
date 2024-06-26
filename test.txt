@@ -1,0 +1,5 @@
+adc
+bdcfg
+cat
+dog
+elephant
