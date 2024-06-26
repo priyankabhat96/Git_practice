@@ -6,3 +6,4 @@ elephant
 adb
 agb
 don't add anything
+Permission denied
